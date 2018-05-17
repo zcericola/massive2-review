@@ -1,0 +1,1 @@
+INSERT INTO dogs (name, age, is_good) VALUES ($1, $2, $3);
